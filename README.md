@@ -12,10 +12,8 @@
 * Easy-To-Interact UI
 
 ### Videos
-# Showcase
-* https://www.youtube.com/watch?v=recCxcH6Rxg
-# Installation Guide
-* https://www.youtube.com/watch?v=JBgR72hRFF8
+* **Showcase** https://www.youtube.com/watch?v=recCxcH6Rxg
+* **Installation Guide** https://www.youtube.com/watch?v=JBgR72hRFF8
 
 ### Implementing Soon
 * Drag and Drop Image
