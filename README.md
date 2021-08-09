@@ -3,6 +3,7 @@
 
 <img src="https://media.discordapp.net/attachments/803068906784161803/874320513877549096/unknown.png" align="center" alt="Draxeous AI | OCR">
 
+<hr>
 
 ### Features
 * Scan Image Text Fast
@@ -24,8 +25,6 @@
 * Snip Screen Features, Take a snip then it will do the work for you.
 * Batch Processing, If you have a lot of files, the Batch Page will scan every image for you and the text will be combined.
 * Edit Images/Crop Images
-
-<hr>
 
 ### Developers
 * Dichill
