@@ -11,20 +11,23 @@
 * Open Source
 * Easy-To-Interact UI
 
-### Showcase
+### Videos
+**Showcase**
 * https://www.youtube.com/watch?v=recCxcH6Rxg
-
-### How to Install
+**Installation Guide**
 * https://www.youtube.com/watch?v=JBgR72hRFF8
 
 ### Implementing Soon
-* Drag and Drop Image is still in the work, Save as PDF, DOCX, Open Location, and Print is stil in the work
+* Drag and Drop Image
+* Save as PDF, DOCX
+* Open saved Location
+* Print
 * Settings
 
-* Ctrl + C a Image or Picture and Paste it in the app will automatically process that Image
-* Snip Screen Features, Take a snip then it will do the work for you.
-* Batch Processing, If you have a lot of files, the Batch Page will scan every image for you and the text will be combined.
-* Edit Images/Crop Images
+* Ctrl V Image into the App and auto process it.
+* Snip Screen Features, automatic Scan
+* Batch Processing
+* Edit Images
 
 ### Developers
 * Dichill
