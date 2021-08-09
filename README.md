@@ -12,9 +12,9 @@
 * Easy-To-Interact UI
 
 ### Videos
-**Showcase**
+# Showcase
 * https://www.youtube.com/watch?v=recCxcH6Rxg
-**Installation Guide**
+# Installation Guide
 * https://www.youtube.com/watch?v=JBgR72hRFF8
 
 ### Implementing Soon
